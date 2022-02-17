@@ -1,0 +1,2 @@
+com/mews/kiosk_mode/BuildConfig.java
+ com.mews.kiosk_mode.BuildConfig

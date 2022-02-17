@@ -1,0 +1,147 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.orangedcr.borne.borneorange"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10    <!--
+11         Flutter needs it to communicate with the running application
+12         to allow setting breakpoints, to provide hot reload, etc.
+13    -->
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\android\app\src\debug\AndroidManifest.xml:6:22-64
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\android\app\src\main\AndroidManifest.xml:3:5-79
+15-->C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\android\app\src\main\AndroidManifest.xml:3:22-76
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\android\app\src\main\AndroidManifest.xml:5:5-81
+16-->C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\android\app\src\main\AndroidManifest.xml:5:22-78
+17    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+17-->C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\android\app\src\main\AndroidManifest.xml:7:5-85
+17-->C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\android\app\src\main\AndroidManifest.xml:7:22-82
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[:flutter_osm_plugin] C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\build\flutter_osm_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+18-->[:flutter_osm_plugin] C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\build\flutter_osm_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-76
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->[:flutter_osm_plugin] C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\build\flutter_osm_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-81
+19-->[:flutter_osm_plugin] C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\build\flutter_osm_plugin\intermediates\library_manifest\debug\AndroidManifest.xml:11:22-78
+20    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+21-->[:device_id] C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\build\device_id\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-75
+21-->[:device_id] C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\build\device_id\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-72
+22
+23    <supports-screens
+23-->[org.osmdroid:osmdroid-android:6.1.11] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\252616b66e846befbf1f9bb11a7ddba9\transformed\jetified-osmdroid-android-6.1.11\AndroidManifest.xml:11:5-14:40
+24        android:anyDensity="true"
+24-->[org.osmdroid:osmdroid-android:6.1.11] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\252616b66e846befbf1f9bb11a7ddba9\transformed\jetified-osmdroid-android-6.1.11\AndroidManifest.xml:12:9-34
+25        android:largeScreens="true"
+25-->[org.osmdroid:osmdroid-android:6.1.11] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\252616b66e846befbf1f9bb11a7ddba9\transformed\jetified-osmdroid-android-6.1.11\AndroidManifest.xml:13:9-36
+26        android:normalScreens="true" />
+26-->[org.osmdroid:osmdroid-android:6.1.11] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\252616b66e846befbf1f9bb11a7ddba9\transformed\jetified-osmdroid-android-6.1.11\AndroidManifest.xml:14:9-37
+27
+28    <uses-feature
+28-->[org.osmdroid:osmdroid-android:6.1.11] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\252616b66e846befbf1f9bb11a7ddba9\transformed\jetified-osmdroid-android-6.1.11\AndroidManifest.xml:16:5-18:36
+29        android:name="android.hardware.location.network"
+29-->[org.osmdroid:osmdroid-android:6.1.11] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\252616b66e846befbf1f9bb11a7ddba9\transformed\jetified-osmdroid-android-6.1.11\AndroidManifest.xml:17:9-57
+30        android:required="false" />
+30-->[org.osmdroid:osmdroid-android:6.1.11] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\252616b66e846befbf1f9bb11a7ddba9\transformed\jetified-osmdroid-android-6.1.11\AndroidManifest.xml:18:9-33
+31    <uses-feature
+31-->[org.osmdroid:osmdroid-android:6.1.11] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\252616b66e846befbf1f9bb11a7ddba9\transformed\jetified-osmdroid-android-6.1.11\AndroidManifest.xml:19:5-21:36
+32        android:name="android.hardware.location.gps"
+32-->[org.osmdroid:osmdroid-android:6.1.11] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\252616b66e846befbf1f9bb11a7ddba9\transformed\jetified-osmdroid-android-6.1.11\AndroidManifest.xml:20:9-53
+33        android:required="false" />
+33-->[org.osmdroid:osmdroid-android:6.1.11] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\252616b66e846befbf1f9bb11a7ddba9\transformed\jetified-osmdroid-android-6.1.11\AndroidManifest.xml:21:9-33
+34    <uses-feature
+34-->[org.osmdroid:osmdroid-android:6.1.11] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\252616b66e846befbf1f9bb11a7ddba9\transformed\jetified-osmdroid-android-6.1.11\AndroidManifest.xml:22:5-24:36
+35        android:name="android.hardware.telephony"
+35-->[org.osmdroid:osmdroid-android:6.1.11] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\252616b66e846befbf1f9bb11a7ddba9\transformed\jetified-osmdroid-android-6.1.11\AndroidManifest.xml:23:9-50
+36        android:required="false" />
+36-->[org.osmdroid:osmdroid-android:6.1.11] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\252616b66e846befbf1f9bb11a7ddba9\transformed\jetified-osmdroid-android-6.1.11\AndroidManifest.xml:24:9-33
+37    <uses-feature
+37-->[org.osmdroid:osmdroid-android:6.1.11] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\252616b66e846befbf1f9bb11a7ddba9\transformed\jetified-osmdroid-android-6.1.11\AndroidManifest.xml:25:5-27:36
+38        android:name="android.hardware.wifi"
+38-->[org.osmdroid:osmdroid-android:6.1.11] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\252616b66e846befbf1f9bb11a7ddba9\transformed\jetified-osmdroid-android-6.1.11\AndroidManifest.xml:26:9-45
+39        android:required="false" />
+39-->[org.osmdroid:osmdroid-android:6.1.11] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\252616b66e846befbf1f9bb11a7ddba9\transformed\jetified-osmdroid-android-6.1.11\AndroidManifest.xml:27:9-33
+40
+41    <application
+42        android:name="android.app.Application"
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.6.0] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\9db0d5e72b689f8699d8addfbfc863c3\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+44        android:debuggable="true"
+45        android:icon="@mipmap/ic_launcher"
+46        android:label="borneorange" >
+47        <activity
+48            android:name="com.orangedcr.borne.borneorange.MainActivity"
+49            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+50            android:exported="true"
+51            android:hardwareAccelerated="true"
+52            android:launchMode="singleTop"
+53            android:screenOrientation="landscape"
+54            android:theme="@style/LaunchTheme"
+55            android:windowSoftInputMode="adjustResize" >
+56
+57            <!--
+58                 Specifies an Android theme to apply to this Activity as soon as
+59                 the Android process has started. This theme is visible to the user
+60                 while the Flutter UI initializes. After that, this theme continues
+61                 to determine the Window background behind the Flutter UI.
+62            -->
+63            <meta-data
+64                android:name="io.flutter.embedding.android.NormalTheme"
+65                android:resource="@style/NormalTheme" />
+66
+67            <intent-filter>
+68                <action android:name="android.intent.action.MAIN" />
+69
+70                <category android:name="android.intent.category.LAUNCHER" />
+71            </intent-filter>
+72        </activity>
+73        <!--
+74             Don't delete the meta-data below.
+75             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+76        -->
+77        <meta-data
+78            android:name="flutterEmbedding"
+79            android:value="2" />
+80
+81        <activity
+81-->[:url_launcher_android] C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+82            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+82-->[:url_launcher_android] C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+83            android:exported="false"
+83-->[:url_launcher_android] C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+84            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+84-->[:url_launcher_android] C:\Users\stage_zhexeu\Documents\Tiria-application_Orange\suite\Borne orange\borneorange -FINAL\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+85
+86        <provider
+86-->[com.squareup.picasso:picasso:2.71828] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\3aa3747314c9930350f18f3bce734d29\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+87            android:name="com.squareup.picasso.PicassoProvider"
+87-->[com.squareup.picasso:picasso:2.71828] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\3aa3747314c9930350f18f3bce734d29\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+88            android:authorities="com.orangedcr.borne.borneorange.com.squareup.picasso"
+88-->[com.squareup.picasso:picasso:2.71828] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\3aa3747314c9930350f18f3bce734d29\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+89            android:exported="false" />
+89-->[com.squareup.picasso:picasso:2.71828] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\3aa3747314c9930350f18f3bce734d29\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+90
+91        <activity
+91-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\1f7aa0fc277dfcfc9d7a264fa71af410\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+92            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+92-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\1f7aa0fc277dfcfc9d7a264fa71af410\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+93            android:exported="false"
+93-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\1f7aa0fc277dfcfc9d7a264fa71af410\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+94            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+94-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\1f7aa0fc277dfcfc9d7a264fa71af410\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+95
+96        <meta-data
+96-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\f31004b5e21f28d595b336b73e82d3b6\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+97            android:name="com.google.android.gms.version"
+97-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\f31004b5e21f28d595b336b73e82d3b6\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+98            android:value="@integer/google_play_services_version" />
+98-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\stage_zhexeu\.gradle\caches\transforms-3\f31004b5e21f28d595b336b73e82d3b6\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+99    </application>
+100
+101</manifest>

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\stage_zhexeu\\Documents\\Tiria-application_Orange\\suite\\Borne orange\\borneorange -FINAL\\build\\url_launcher_android\\intermediates\\res\\merged\\debug\\values-ja\\values-ja.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\stage_zhexeu\\.gradle\\caches\\transforms-3\\9db0d5e72b689f8699d8addfbfc863c3\\transformed\\core-1.6.0\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\stage_zhexeu\\Documents\\Tiria-application_Orange\\suite\\Borne orange\\borneorange -FINAL\\build\\url_launcher_android\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ja\\values-ja.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\stage_zhexeu\\.gradle\\caches\\transforms-3\\9db0d5e72b689f8699d8addfbfc863c3\\transformed\\core-1.6.0\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

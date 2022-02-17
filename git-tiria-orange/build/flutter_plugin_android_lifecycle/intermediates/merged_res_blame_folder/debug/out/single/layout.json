@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\stage_zhexeu\\Documents\\Tiria-application_Orange\\suite\\Borne orange\\borneorange -FINAL\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\stage_zhexeu\\.gradle\\caches\\transforms-3\\9db0d5e72b689f8699d8addfbfc863c3\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\stage_zhexeu\\Documents\\Tiria-application_Orange\\suite\\Borne orange\\borneorange -FINAL\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\stage_zhexeu\\.gradle\\caches\\transforms-3\\9db0d5e72b689f8699d8addfbfc863c3\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\stage_zhexeu\\Documents\\Tiria-application_Orange\\suite\\Borne orange\\borneorange -FINAL\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\stage_zhexeu\\.gradle\\caches\\transforms-3\\9db0d5e72b689f8699d8addfbfc863c3\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\stage_zhexeu\\Documents\\Tiria-application_Orange\\suite\\Borne orange\\borneorange -FINAL\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\stage_zhexeu\\.gradle\\caches\\transforms-3\\9db0d5e72b689f8699d8addfbfc863c3\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\stage_zhexeu\\Documents\\Tiria-application_Orange\\suite\\Borne orange\\borneorange -FINAL\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\stage_zhexeu\\.gradle\\caches\\transforms-3\\9db0d5e72b689f8699d8addfbfc863c3\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\stage_zhexeu\\Documents\\Tiria-application_Orange\\suite\\Borne orange\\borneorange -FINAL\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\stage_zhexeu\\.gradle\\caches\\transforms-3\\9db0d5e72b689f8699d8addfbfc863c3\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]
