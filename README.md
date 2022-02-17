@@ -15,7 +15,7 @@ Installation environement flutter VScode:
 
 
 
-pour faire fonctionner l applcation il faut mettre a jour la base de donne avec le script d'update 
+pour faire fonctionner l application il faut mettre a jour la base de donnee avec le script UpdateDataBase.sql
 
 -Mettre dans MyCombox device_orange_api et device_orange_meta.php =>  cpanel.mycombox.fr/Api
 
@@ -27,11 +27,11 @@ pour faire fonctionner l applcation il faut mettre a jour la base de donne avec 
 
 -Mettre device.php tes.php test.php  => cpanel.mycombox.fr/templates/pages/
 
--lancer serveur xampp
+-Lancer serveur xampp
 
--changer adresse serveur dans lib/globals.dart en fonction de l adresse cpanel.mycombox.fr
+-Changer adresse serveur dans lib/globals.dart en fonction de l adresse cpanel.mycombox.fr
 
-brancher l'appareil et et appuyer sur f5 
+-Brancher l'appareil et et appuyer sur f5 
 
 ----------------------------------------------------------------------------------------------------------------
 
