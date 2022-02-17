@@ -39,7 +39,9 @@ Pour Emulateur
 Activer la virtualisation dans le bios 
 installer android studio 
 ajouter variable envirronnment 
-![image](https://user-images.githubusercontent.com/77006337/154498904-6308067e-1890-4844-8acd-aab201f9fe25.png)
+![image](https://user-images.githubusercontent.com/77006337/154500041-f417a302-5834-4465-af73-6c0c222515ec.png)
+![image](https://user-images.githubusercontent.com/77006337/154500122-181ac6a1-d338-4e06-a910-01eee897b55f.png)
+
 Pour les variables utilisateur et systeme
 creer appareil android 
 
