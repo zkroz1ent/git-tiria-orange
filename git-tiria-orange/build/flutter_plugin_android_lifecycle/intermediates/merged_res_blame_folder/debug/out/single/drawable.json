@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\stage_zhexeu\\Documents\\Tiria-application_Orange\\suite\\Borne orange\\borneorange -FINAL\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\stage_zhexeu\\.gradle\\caches\\transforms-3\\9db0d5e72b689f8699d8addfbfc863c3\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\stage_zhexeu\\Documents\\Tiria-application_Orange\\suite\\Borne orange\\borneorange -FINAL\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\stage_zhexeu\\.gradle\\caches\\transforms-3\\9db0d5e72b689f8699d8addfbfc863c3\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\stage_zhexeu\\Documents\\Tiria-application_Orange\\suite\\Borne orange\\borneorange -FINAL\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\stage_zhexeu\\.gradle\\caches\\transforms-3\\9db0d5e72b689f8699d8addfbfc863c3\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\stage_zhexeu\\Documents\\Tiria-application_Orange\\suite\\Borne orange\\borneorange -FINAL\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\stage_zhexeu\\.gradle\\caches\\transforms-3\\9db0d5e72b689f8699d8addfbfc863c3\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

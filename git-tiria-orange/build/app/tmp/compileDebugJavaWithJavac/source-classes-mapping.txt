@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/orangedcr/borne/borneorange/BuildConfig.java
+ com.orangedcr.borne.borneorange.BuildConfig
