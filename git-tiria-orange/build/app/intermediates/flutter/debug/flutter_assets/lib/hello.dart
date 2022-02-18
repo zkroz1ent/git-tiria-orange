@@ -18,11 +18,7 @@ class Hello extends StatefulWidget {
   Hello({
     Key? key,
   }) : super(key: key);
- 
 
-
-
- 
 
   @override
   State<Hello> createState() => HelloState();

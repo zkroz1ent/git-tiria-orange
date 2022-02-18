@@ -1,2 +1,0 @@
-kent/chien/client_information/BuildConfig.java
- kent.chien.client_information.BuildConfig
